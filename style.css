@@ -147,3 +147,6 @@ align-items: flex-end;
     text-align: center;
     color: red;
 }
+.logo{
+    margin-right: 5px;
+}
